@@ -1,0 +1,5 @@
+Name,Student ID,Gender,Age,Major,College,Password,Job
+SuXilei,122090479,male,20,DS,Ling,12345678,mainpage/viewData/Admin_login
+LuZhiyuan,121090391,male,21,AM,Muse,123,deleteData
+ZhaoZhengyi,122090791,male,19,DS,Harmonia,zzy123,modifyData
+LiuXuteng,121090354,male,20,AM,Muse,123456,addData
