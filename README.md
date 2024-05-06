@@ -1,7 +1,9 @@
 Here is a Student Database System (SDMS) implemented by using c++.
 Author: Su Xilei, Lu Zhiyuan, Zhao Zhengyi, Liu Xuteng from CUHKSZ.
 Contact: Zhao Zhengyi: zhengyizhao@link.cuhk.edu.cn
+
 SDMS have two modes for user and admin.
+
 Admin can have 4 functions: 
 
 addData(): Add new data to the database.
